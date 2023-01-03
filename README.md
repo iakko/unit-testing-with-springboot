@@ -9,7 +9,7 @@ In order to get a full understanding of this repository, take a look at [this po
 For you busy people in need of fast answers, here some tips:
 
  * Clone the project source from here.
- * Run the project with mvn spring-boot:run
- * Run tests with mvn test
+ * Run the project with `mvn spring-boot:run`
+ * Run tests with `mvn test`
  * Check [DemoApplicationTests](src/test/java/com/example/demo/DemoApplicationTests.java) and [DemoConfigurationTest](src/test/java/com/example/demo/DemoConfigurationTest.java) to get an idea at first sight.
 
